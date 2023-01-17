@@ -1,1 +1,2 @@
 # odin-recipes
+The project is to create a recipe website. To achieve this goal, i would have to demonstrate a good understand of html boilerplate and how to better format text within my website. A good understanding of absolute and relative path will also be required to be successful. 
